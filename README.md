@@ -1,2 +1,1 @@
-Here is my page.
-https://takoyta.github.io/busovnet/
+Busov NEt CMS <a href="/busovnet/">click</a>
